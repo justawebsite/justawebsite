@@ -1,5 +1,5 @@
 ### About me 👋
-<summary>About</summary>
+
 <details>
 关于我（
 </details>
